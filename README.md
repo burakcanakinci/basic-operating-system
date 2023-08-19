@@ -26,5 +26,4 @@
 *   You will get the iso file, now run it in VMware
 
 
-## Authors
-- [@abhineetraj1](https://www.github.com/abhineetraj1)
+
